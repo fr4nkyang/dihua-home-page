@@ -63885,7 +63885,7 @@
 	        _react2.default.createElement(
 	          'div',
 	          { className: 'banner' },
-	          _react2.default.createElement('img', { src: _banner2.default, alt: 'banner' })
+	          _react2.default.createElement('img', { src: 'http://ooricsot9.bkt.clouddn.com/banner.jpg', alt: 'banner' })
 	        ),
 	        _react2.default.createElement(
 	          'div',
