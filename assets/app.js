@@ -62886,9 +62886,9 @@
 	               _react2.default.createElement(
 	                  'section',
 	                  { className: 'section q-link row' },
-	                  _react2.default.createElement(_viewblock2.default, { url: "#/product", img: _product2.default, title: "产品服务" }),
-	                  _react2.default.createElement(_viewblock2.default, { url: "#/about", img: _aboutus2.default, title: "关于我们" }),
-	                  _react2.default.createElement(_viewblock2.default, { url: "#/contact", img: _contact2.default, title: "联系我们" })
+	                  _react2.default.createElement(_viewblock2.default, { url: "#/product", img: 'http://ooricsot9.bkt.clouddn.com/img/home/product.jpg', title: "产品服务" }),
+	                  _react2.default.createElement(_viewblock2.default, { url: "#/about", img: 'http://ooricsot9.bkt.clouddn.com/aboutus.jpg', title: "关于我们" }),
+	                  _react2.default.createElement(_viewblock2.default, { url: "#/contact", img: 'http://ooricsot9.bkt.clouddn.com/contact.jpg', title: "联系我们" })
 	               )
 	            )
 	         );
@@ -63521,7 +63521,7 @@
 	        _react2.default.createElement(
 	          'div',
 	          { className: 'banner' },
-	          _react2.default.createElement('img', { src: _banner2.default, alt: 'banner' })
+	          _react2.default.createElement('img', { src: 'http://ooricsot9.bkt.clouddn.com/banner.jpg', alt: 'banner' })
 	        ),
 	        _react2.default.createElement(
 	          'div',
